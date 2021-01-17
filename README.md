@@ -12,6 +12,6 @@ To start need:
 Connect to **VNC** - ***http://localhost:6901/vnc.html***
 Default **password** is - **gns**
 
-To change password - change **ENV** in **Dockerfile VNC_PW
+To change password - change **ENV** in **Dockerfile VNC_PW**
 
 ***Nicky Lemeshko*** [©mdsn](https://mdsn.tk) **2021**
